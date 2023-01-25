@@ -20,7 +20,7 @@
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "4CD35F51-465C-446C-801E-3EB5559CEC32 - 5b9b68c2c3c4edb5"
+                  uuid = "4CD35F51-465C-446C-801E-3EB5559CEC32 - 5b9b68c2c3c4ec58"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -30,12 +30,12 @@
                   urlString = "file:///Users/malshalambton/Documents/GitHub/MAD-4114/favoritePlaces_Malsha_C0871063/favoritePlaces_Malsha_C0871063/MapViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "142"
-                  endingLineNumber = "142"
+                  startingLineNumber = "145"
+                  endingLineNumber = "145"
                   offsetFromSymbolStart = "96">
                </Location>
                <Location
-                  uuid = "4CD35F51-465C-446C-801E-3EB5559CEC32 - 5b9b68c2c3c4edb5"
+                  uuid = "4CD35F51-465C-446C-801E-3EB5559CEC32 - 5b9b68c2c3c4ec58"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -45,8 +45,8 @@
                   urlString = "file:///Users/malshalambton/Documents/GitHub/MAD-4114/favoritePlaces_Malsha_C0871063/favoritePlaces_Malsha_C0871063/MapViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "142"
-                  endingLineNumber = "142"
+                  startingLineNumber = "145"
+                  endingLineNumber = "145"
                   offsetFromSymbolStart = "152">
                </Location>
             </Locations>
