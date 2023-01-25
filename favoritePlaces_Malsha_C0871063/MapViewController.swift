@@ -194,9 +194,16 @@ class MapViewController: UIViewController,CLLocationManagerDelegate,HandleMapSea
                                 self.address += placemark.subLocality! + "\n"
                             }
                             
+                            if placemark.locality != nil {
+                                self.address += placemark.locality! + "\n"
+                            }
+                            
                             if placemark.subAdministrativeArea != nil {
                                 self.address += placemark.subAdministrativeArea! + "\n"
-//                                location = placemark.subAdministrativeArea!
+                            }
+                            
+                            if placemark.administrativeArea != nil {
+                                self.address += placemark.administrativeArea! + "\n"
                             }
                             
                             if placemark.postalCode != nil {
